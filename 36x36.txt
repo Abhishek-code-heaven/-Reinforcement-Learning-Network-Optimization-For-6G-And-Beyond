@@ -1,0 +1,86 @@
+declaringnode 0 0.100000 0.100000 0
+declaringnode 1 0.200000 0.100000 0
+declaringlinks 1 0 0
+declaringnode 2 0.300000 0.100000 0
+declaringlinks 2 1 0
+declaringnode 3 0.500000 0.100000 0
+declaringnode 4 0.600000 0.100000 0
+declaringlinks 4 3 0
+declaringnode 5 0.700000 0.100000 0
+declaringlinks 5 4 0
+declaringnode 6 0.100000 0.200000 0
+declaringlinks 6 0 0
+declaringnode 7 0.200000 0.200000 0
+declaringlinks 7 6 0
+declaringlinks 7 1 0
+declaringnode 8 0.300000 0.200000 0
+declaringlinks 8 7 0
+declaringlinks 8 2 0
+declaringnode 9 0.500000 0.200000 0
+declaringlinks 9 3 0
+declaringnode 10 0.600000 0.200000 0
+declaringlinks 10 9 0
+declaringlinks 10 4 0
+declaringnode 11 0.700000 0.200000 0
+declaringlinks 11 10 0
+declaringlinks 11 5 0
+declaringnode 12 0.100000 0.300000 0
+declaringlinks 12 6 0
+declaringnode 13 0.200000 0.300000 0
+declaringlinks 13 12 0
+declaringlinks 13 7 0
+declaringnode 14 0.300000 0.300000 0
+declaringlinks 14 13 0
+declaringlinks 14 8 0
+declaringnode 15 0.500000 0.300000 0
+declaringlinks 15 9 0
+declaringnode 16 0.600000 0.300000 0
+declaringlinks 16 15 0
+declaringlinks 16 10 0
+declaringnode 17 0.700000 0.300000 0
+declaringlinks 17 16 0
+declaringlinks 17 11 0
+declaringnode 18 0.100000 0.400000 0
+declaringlinks 18 12 0
+declaringnode 19 0.200000 0.400000 0
+declaringlinks 19 18 0
+declaringlinks 19 13 0
+declaringnode 20 0.300000 0.400000 0
+declaringlinks 20 19 0
+declaringlinks 20 14 0
+declaringnode 21 0.500000 0.400000 0
+declaringlinks 21 20 0
+declaringlinks 21 15 0
+declaringnode 22 0.600000 0.400000 0
+declaringlinks 22 21 0
+declaringlinks 22 16 0
+declaringnode 23 0.700000 0.400000 0
+declaringlinks 23 22 0
+declaringlinks 23 17 0
+declaringnode 24 0.100000 0.500000 0
+declaringlinks 24 18 0
+declaringnode 25 0.200000 0.500000 0
+declaringlinks 25 19 0
+declaringnode 26 0.300000 0.500000 0
+declaringlinks 26 25 0
+declaringlinks 26 20 0
+declaringnode 27 0.500000 0.500000 0
+declaringlinks 27 21 0
+declaringnode 28 0.600000 0.500000 0
+declaringlinks 28 27 0
+declaringlinks 28 22 0
+declaringnode 29 0.700000 0.500000 0
+declaringlinks 29 23 0
+declaringnode 30 0.100000 0.600000 0
+declaringlinks 30 24 0
+declaringnode 31 0.200000 0.600000 0
+declaringlinks 31 30 0
+declaringnode 32 0.300000 0.600000 0
+declaringlinks 32 31 0
+declaringnode 33 0.500000 0.600000 0
+declaringlinks 33 32 0
+declaringnode 34 0.600000 0.600000 0
+declaringlinks 34 33 0
+declaringnode 35 0.700000 0.600000 0
+declaringlinks 35 34 0
+declaringlinks 35 29 0
